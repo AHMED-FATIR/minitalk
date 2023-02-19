@@ -1,0 +1,15 @@
+{
+	"files.associations": {
+		"_types.h": "c",
+		"signal.h": "c",
+		"minitalk.h": "c"
+	},
+	"makefile.launchConfigurations": [
+		{
+			"cwd": "/Users/afatir/Desktop/cursus/minitalk",
+			"binaryPath": "/Users/afatir/Desktop/cursus/minitalk/server",
+			"binaryArgs": []
+		}
+	],
+	"C_Cpp.errorSquiggles": "disabled"
+}
